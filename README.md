@@ -45,7 +45,7 @@ ONNXモデルを学習させたい場合は以下3つのノートブックをGoo
 * [Barracuda 1.3.0 preview](https://docs.unity3d.com/Packages/com.unity.barracuda@1.3/manual/index.html)
 
 # ToDo
-- [ ] モデルをお試し版を学習収束版へ差し替える
+- [x] ~~モデルをお試し版を学習収束版へ差し替える~~
 
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
