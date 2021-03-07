@@ -257,7 +257,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WindModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.XRModule.dll"
--r:"D:/01.windows_work/01.github/Unity-ReversiSample-Private/ReversiSample/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/01.windows_work/01.github/Unity-Barracuda-Reversi-WebGL-Sample/Unity-Barracuda-Reversi-Sample/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 "Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/AssemblyInfo.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/AllocatingGCMemoryConstraint.cs"
 "Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner/Assertions/ConstraintsExtensions.cs"

@@ -290,7 +290,7 @@
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WebGLSupport/Managed/UnityEngine.WebGLModule.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll"
 -r:"C:/Program Files/Unity/Hub/Editor/2021.1.0b6/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll"
--r:"D:/01.windows_work/01.github/Unity-ReversiSample-Private/ReversiSample/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
+-r:"D:/01.windows_work/01.github/Unity-Barracuda-Reversi-WebGL-Sample/Unity-Barracuda-Reversi-Sample/Library/PackageCache/com.unity.ext.nunit@1.0.6/net35/unity-custom/nunit.framework.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.TestRunner.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/2000b0aE.dag/UnityEngine.TestRunner.ref.dll"
