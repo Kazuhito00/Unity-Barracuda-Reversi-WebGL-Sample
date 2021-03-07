@@ -6,7 +6,7 @@ Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論す�
 
 # Demo
 動作確認用ページは以下。<br>
-[https://kazuhito00.github.io/Unity-Barracuda-Reversi-WebGL-Sample/WebGL-Build](https://kazuhito00.github.io/Unity-Barracuda-Reversi-WebGL-Sample/WebGL-Build/index.html)
+[https://kazuhito00.github.io/Unity-Barracuda-Reversi-WebGL-Sample/WebGL-Build](https://kazuhito00.github.io/Unity-Barracuda-Reversi-WebGL-Sample/WebGL-Build/)
 
 # Requirement (Unity)
 * Unity 2021.1.0b6 or later
