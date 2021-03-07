@@ -18,7 +18,7 @@ Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論す�
 # ONNXモデル
 「03_ReversiAI_TrainModel.ipynb」にて、Tensorflowによるモデル学習とONNX変換を実施しています。<br>
 今回作成したモデルの構造は以下です。
-<img src="https://user-images.githubusercontent.com/37477845/110244465-21987080-7fa2-11eb-93b6-248f92be34de.png" width="100%">
+<img src="https://user-images.githubusercontent.com/37477845/110244508-5dcbd100-7fa2-11eb-9a23-1cc4a0181e6a.png" width="100%">
 
 # Reference
 * [Barracuda 1.3.0 preview](https://docs.unity3d.com/Packages/com.unity.barracuda@1.3/manual/index.html)
