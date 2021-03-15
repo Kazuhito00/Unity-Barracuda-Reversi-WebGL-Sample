@@ -12,7 +12,7 @@ Unity Barracudaを用いてリバーシAI(簡易なMLP)をWebGL上で推論す�
 * Unity 2021.1.0b6 or later
 * Barracuda 1.3.0 or later
 
-# Requrement (Python) ※ONNX変換をする場合のみ
+# Requrement (Python) ※ONNXを作成する場合のみ
 * Tensorflow 2.4.0 or later
 * tf2onnx 1.8.2 or later
 
